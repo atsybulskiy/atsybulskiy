@@ -20,6 +20,10 @@ I am an experienced frontend developer with a wealth of experience in various pr
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?logo=webpack&logoColor=black)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?logo=vite&logoColor=white)
 
+![ESLint](https://img.shields.io/badge/ESLint-%234B32C3.svg?logo=eslint&logoColor=white)
+![stylelint](https://img.shields.io/badge/stylelint-%23263238.svg?logo=stylelint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-%23F7B93E.svg?logo=prettier&logoColor=white)
+
 ![ChromeExtension](https://img.shields.io/badge/Chrome_Extension-%234285F4.svg?logo=googlechrome&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atsybulskiy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
