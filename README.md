@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am an experienced frontend developer with a wealth of experience in various projects and teams. My primary specialization lies in creating high-quality web applications and platforms using cutting-edge technologies and tools.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeSctipt-316192?logo=typescript&logoColor=white)
